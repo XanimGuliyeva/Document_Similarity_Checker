@@ -22,7 +22,7 @@ gdown for downloading from Google Drive.
 📁 Output
 
 The script prints:
-Tokenized and shingled documents
-MinHash signatures
-Candidate similar document pairs
+Tokenized and shingled documents,
+MinHash signatures,
+Candidate similar document pairs,
 Verified similar pairs with Jaccard similarity scores
